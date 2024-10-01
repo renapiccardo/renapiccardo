@@ -1,2 +1,2 @@
-- Hola, mi nombre es Renatto Piccardo. 👋 
-- Mi objetivo es aprender y adquirir conocimientos de diferentes tecnologías y crear proyectos interesantes que puedan contribuir en mi crecimiento personal y profesional en el campo de la informática.
+- Hola, mi nombre es Renatto. 👋 
+- Mi objetivo es aprender y adquirir conocimientos de diferentes tecnologías y crear proyectos interesantes para mejorar en el Desarrollo Web Frontend.
